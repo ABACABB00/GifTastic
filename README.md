@@ -5,4 +5,4 @@ look up your favorite memes
 
 
 
-[App](https://felipecantu.github.io/GifTastic/)
+[Link to App](https://felipecantu.github.io/GifTastic/)
