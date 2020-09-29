@@ -1,3 +1,5 @@
 # GifTastic
-look up your favorite animal memes 
-https://felipecantu.github.io/GifTastic/
+look up your favorite memes 
+
+
+[App](https://felipecantu.github.io/GifTastic/)
